@@ -1,0 +1,27 @@
+_repo: Le-braconnier-de-la-mer_72954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mauclère, Jean
+    gutenberg_agent_id: '56881'
+    url: http://www.gutenberg.org/2009/agents/56881
+description: ''
+gutenberg_issued: '2024-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72954'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t54181890q
+pgterms:marc905: 20240201144234mauclre
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bCollection des romans populaires, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le braconnier de la mer
+url: http://www.gutenberg.org/ebooks/72954
