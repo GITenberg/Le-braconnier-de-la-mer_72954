@@ -1,11 +1,16 @@
 _repo: Le-braconnier-de-la-mer_72954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72954-h/images/cover.jpg
 creator:
   author:
     agent_name: Mauclère, Jean
     gutenberg_agent_id: '56881'
     url: http://www.gutenberg.org/2009/agents/56881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72954#Le-braconnier-de-la-mer
 gutenberg_issued: '2024-02-13'
 gutenberg_type: Text
 identifiers:
